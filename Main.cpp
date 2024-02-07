@@ -30,7 +30,7 @@ int main() {
         cout << "Bidang   : "; cin >> bidang;
         cout << "Partai   : "; cin >> partai;
        
-        // memasukkannya ke dalam atribut nama kelas Mahasiswa
+        // memasukkannya ke dalam atribut id, nama, bidang, partai dpr
         data[i].setId(id);
         data[i].setNama(nama);
         data[i].setBidang(bidang);
